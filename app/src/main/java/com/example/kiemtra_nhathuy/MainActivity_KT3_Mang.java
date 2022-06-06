@@ -26,7 +26,7 @@ public class MainActivity_KT3_Mang extends AppCompatActivity {
             "Trượng Lệ Hào",
             "Đinh Nguyễn Trường Hải",
             "Đặng Anh Kiệt",
-            " Lê Đức Lợi",
+            "Lê Đức Lợi",
             "Huỳnh Hữu Lý",
             "Huỳnh Đức Lộc",
             "Chế Phương Nam",
